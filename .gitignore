@@ -25,6 +25,3 @@ pnpm-debug.log*
 
 # TODO
 # TODO.md
-
-__pycache__
-dev-dist/*
